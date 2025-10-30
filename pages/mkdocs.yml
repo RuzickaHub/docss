@@ -28,6 +28,7 @@ plugins:
   - search
   - excalidraw
   - mkdocstrings
+  - print-site
 
 markdown_extensions:
   admonition:
