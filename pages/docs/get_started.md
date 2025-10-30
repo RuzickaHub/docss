@@ -1,5 +1,5 @@
 ---
-title: Get started
+title: GO outre
 show_datetime: true
 extra_css:
   - "css/pygments/all.css" # add scoped styles
